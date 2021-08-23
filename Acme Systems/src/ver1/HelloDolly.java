@@ -7,7 +7,7 @@ public class HelloDolly
 	{
 		System.out.println("Hello");
 		//This is a test for GitHub authorization
-
+		System.out.println("Hello Dolly from Eclipse Again");
 	}
 
 }
